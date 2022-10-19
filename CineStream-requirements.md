@@ -1,4 +1,4 @@
-# CineStream - OTT Platform Deadline: 4 October 2022
+# CineStream - OTT Platform
 
 1.  **Movies** \- *All languages*
     1.  Latest
