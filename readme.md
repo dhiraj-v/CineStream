@@ -11,3 +11,6 @@ Streaming service with microservices
 
 ### Assumptions 
 Movies are updated once a day
+
+### Resources
+1. [Files - Drive Path](https://drive.google.com/drive/folders/16QWzFcJKoDfoZ68fnGkBLsLip-UmJuAP?usp=sharing) 
