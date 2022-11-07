@@ -1,0 +1,11 @@
+{
+	"user_management_service": "uvicorn user_management:app --reload --port=8000",
+	"user_activity_management_service": "uvicorn user_activity:app --reload --port=8001",
+	"movies_management_Prime_service": "uvicorn fetch_movies_prime:app --reload --port=8002",
+	"movies_management_Netflix_service": "uvicorn fetch_movies_netflix:app --reload --port=8003",
+	"movies_management_CineStream_service": "uvicorn fetch_movies_cine_stream:app --reload --port=8004",
+	"movies_Consolidate_service": "uvicorn movie_consolidation:app --reload --port=8005",
+	"movie_rent_management": "uvicorn rent_movie:app --reload --port=8006",
+	"discount_recommendation_service": "uvicorn discount:app --reload --port=8007", 
+	"payment_service": "uvicorn payment_gateway:app --reload --port=8008"
+}

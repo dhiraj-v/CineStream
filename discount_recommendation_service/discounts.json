@@ -1,0 +1,11 @@
+{
+	"discounts": [{
+			"uid": 2,
+			"discount": 0
+		},
+		{
+			"uid": 3,
+			"discount": 10
+		}
+	]
+}

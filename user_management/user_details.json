@@ -1,0 +1,21 @@
+{
+	"users": [{
+			"uid": "1",
+			"email": "user1@mail.com",
+			"language_preference": "english",
+			"days_left": "10"
+		},
+		{
+			"uid": "2",
+			"email": "user2@mail.com",
+			"language_preference": "telugu",
+			"days_left": "3"
+		},
+		{
+			"uid": "3",
+			"email": "user3@mail.com",
+			"language_preference": "hindi",
+			"days_left": "0"
+		}
+	]
+}

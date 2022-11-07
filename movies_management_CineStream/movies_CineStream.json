@@ -1,0 +1,70 @@
+{
+	"movies_CineStream": [
+	{
+		"name": "DMC", 
+		"url": "https://www.youtube.com/watch?v=tdTkPO5hQts", 
+		"language": "telugu", 
+		"cost": "0"
+	},
+	{
+		"name": "OD", 
+		"url": "https://www.youtube.com/watch?v=x4-7tqS1h_Q", 
+		"language": "telugu", 
+		"cost": "0"		
+	}, 
+	{
+		"name": "SARDAR", 
+		"url": "https://www.youtube.com/watch?v=im5nj4OVY9M", 
+		"language": "telugu", 
+		"cost": "0"
+	}, 
+	{
+		"name": "MICHAEL", 
+		"url": "https://www.youtube.com/watch?v=-pf9AW_-9u4", 
+		"language": "telugu", 
+		"cost": "0"
+	}, 
+	{
+		"name": "GINNA", 
+		"url": "https://www.youtube.com/watch?v=_ZQtidt8Xbg", 
+		"language": "telugu", 
+		"cost": "0"
+	}, 
+	{
+		"name": "PRINCE", 
+		"url": "https://www.youtube.com/watch?v=6073B0sT5a0", 
+		"language": "telugu", 
+		"cost": "0"
+	}, 
+	{
+		"name": "BA", 
+		"url": "https://www.youtube.com/watch?v=X0tOpBuYasI", 
+		"language": "english", 
+		"cost": "0"
+	}, 
+	{
+		"name": "BEAST", 
+		"url": "https://www.youtube.com/watch?v=oQMc7Sq36mI", 
+		"language": "english", 
+		"cost": "0"
+	}, 
+	{
+		"name": "MUMMY", 
+		"url": "https://www.youtube.com/watch?v=IjHgzkQM2Sg", 
+		"language": "english", 
+		"cost": "0"
+	}, 
+	{
+		"name": "KONG", 
+		"url": "https://www.youtube.com/watch?v=44LdLqgOpjo", 
+		"language": "english", 
+		"cost": "0"
+	}, 
+	{
+		"name": "MARIO", 
+		"url": "https://www.youtube.com/watch?v=yPpazvJrHm0", 
+		"language": "english", 
+		"cost": "0"
+	}
+	]
+}

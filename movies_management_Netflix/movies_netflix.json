@@ -1,0 +1,28 @@
+{
+	"movies_netflix": [
+	{
+		"name": "QWF", 
+		"url": "https://www.youtube.com/watch?v=hf8EYbVxtCY", 
+		"language": "english", 
+		"cost": "100"
+	},
+	{
+		"name": "OD", 
+		"url": "https://www.youtube.com/watch?v=x4-7tqS1h_Q", 
+		"language": "telugu", 
+		"cost": "100"
+	}, 
+	{
+		"name": "MANTO", 
+		"url": "https://www.youtube.com/watch?v=QFbUei2DDhc", 
+		"language": "hindi", 
+		"cost": "100"
+	}, 
+	{
+		"name": "DS", 
+		"url": "https://www.youtube.com/watch?v=GN_IwBptKi4", 
+		"language": "english", 
+		"cost": "100"
+	}
+	]
+}
