@@ -1,5 +1,7 @@
 # CineStream - OTT Platform Backend Simulation
 
+Microservice Architecture to simulate the backend of Streaming Service. 
+
 1.  **Movies** \- *All languages*
     1.  Latest
     2.  All time Classics
@@ -40,15 +42,6 @@
         1.  Loose Coupling
         2.  High cohesion
 
-### Points to remember:
-
-1.  Ensure service discovery, API gateway in place
-
-### Reference Implementations:
-
-1.  https://github.com/karthikv1392/MiLA4U
-2.  https://microservices-demo.github.io/
-3.  https://github.com/instana/robot-shop
 
 # WORK - [Github-CineStream](https://github.com/dhiraj-v/CineStream/tree/main)
 
