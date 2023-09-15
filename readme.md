@@ -1,4 +1,4 @@
-# CineStream - OTT Platform
+# CineStream - OTT Platform Backend Simulation
 
 1.  **Movies** \- *All languages*
     1.  Latest
