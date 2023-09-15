@@ -41,13 +41,3 @@ Microservice Architecture to simulate the backend of Streaming Service.
     4.  State the Patterns Used to ensure principles:  eg: integration patterns
         1.  Loose Coupling
         2.  High cohesion
-
-
-# WORK - [Github-CineStream](https://github.com/dhiraj-v/CineStream/tree/main)
-
-Sources:
-
-1.  [building microservices](https://www.atlassian.com/microservices/microservices-architecture/building-microservices) \- Atlasian
-2.  [Spring microservices](https://spring.io/microservices)
-3.  [freecodecamp python microservice youtube](https://www.youtube.com/watch?v=0iB5IPoTDts)
-4.  https://microservices.io/
